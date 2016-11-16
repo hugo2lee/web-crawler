@@ -1,0 +1,2000 @@
+第1名：
+  name : (小王子 Le Petit Prince)  
+  cover_url : (https://img1.doubanio.com/spic/s1237549.jpg)  
+  rating : (9.0分)  
+  number_of_comments : (204866人评价)  
+  quote : ([法] 圣埃克苏佩里 / 马振聘 / 人民文学出版社 / 2003-8 / 22.00元)
+
+
+第2名：
+  name : (追风筝的人 The Kite Runner)  
+  cover_url : (https://img3.doubanio.com/spic/s1727290.jpg)  
+  rating : (8.8分)  
+  number_of_comments : (230476人评价)  
+  quote : ([美] 卡勒德·胡赛尼 / 李继宏 / 上海人民出版社 / 2006-5 / 29.00元)
+
+
+第3名：
+  name : (围城 )  
+  cover_url : (https://img3.doubanio.com/spic/s1070222.jpg)  
+  rating : (8.9分)  
+  number_of_comments : (174591人评价)  
+  quote : (钱锺书 / 人民文学出版社 / 1991-2 / 19.00)
+
+
+第4名：
+  name : (活着 )  
+  cover_url : (https://img3.doubanio.com/spic/s23836852.jpg)  
+  rating : (9.1分)  
+  number_of_comments : (116530人评价)  
+  quote : (余华 / 南海出版公司 / 1998-5 / 12.00元)
+
+
+第5名：
+  name : (白夜行 白夜行)  
+  cover_url : (https://img3.doubanio.com/spic/s4610502.jpg)  
+  rating : (9.1分)  
+  number_of_comments : (163879人评价)  
+  quote : ([日] 东野圭吾 / 刘姿君 / 南海出版公司 / 2008-9 / 29.80元)
+
+
+第6名：
+  name : (挪威的森林 ノルウェイの森)  
+  cover_url : (https://img3.doubanio.com/spic/s1228930.jpg)  
+  rating : (8.0分)  
+  number_of_comments : (174870人评价)  
+  quote : ([日] 村上春树 / 林少华 / 上海译文出版社 / 2001-2 / 18.80元)
+
+
+第7名：
+  name : (解忧杂货店 ナミヤ雑貨店の奇蹟)  
+  cover_url : (https://img1.doubanio.com/spic/s27284878.jpg)  
+  rating : (8.6分)  
+  number_of_comments : (137807人评价)  
+  quote : ((日)东野圭吾 / 李盈春 / 南海出版公司 / 2014-5 / 39.50元)
+
+
+第8名：
+  name : (不能承受的生命之轻 Nesnesitelná lehkost bytí)  
+  cover_url : (https://img1.doubanio.com/spic/s1091698.jpg)  
+  rating : (8.4分)  
+  number_of_comments : (127664人评价)  
+  quote : ([捷克] 米兰·昆德拉 / 许钧 / 上海译文出版社 / 2003-7 / 23.00元)
+
+
+第9名：
+  name : (红楼梦 )  
+  cover_url : (https://img1.doubanio.com/spic/s1070959.jpg)  
+  rating : (9.5分)  
+  number_of_comments : (108888人评价)  
+  quote : ([清] 曹雪芹 著 / 人民文学出版社 / 1996-12 / 59.70元)
+
+
+第10名：
+  name : (梦里花落知多少 )  
+  cover_url : (https://img1.doubanio.com/spic/s1513378.jpg)  
+  rating : (7.2分)  
+  number_of_comments : (141265人评价)  
+  quote : (郭敬明 / 春风文艺出版社 / 2003-11 / 20.00元)
+
+
+第11名：
+  name : (三体  : “地球往事”三部曲之一 )  
+  cover_url : (https://img1.doubanio.com/spic/s2768378.jpg)  
+  rating : (8.8分)  
+  number_of_comments : (117001人评价)  
+  quote : (刘慈欣 / 重庆出版社 / 2008-1 / 23.00)
+
+
+第12名：
+  name : (达·芬奇密码 The Da Vinci Code)  
+  cover_url : (https://img3.doubanio.com/spic/s1513425.jpg)  
+  rating : (8.2分)  
+  number_of_comments : (121505人评价)  
+  quote : ([美] 丹·布朗 / 朱振武 / 上海人民出版社 / 2004-2 / 28.00元)
+
+
+第13名：
+  name : (嫌疑人X的献身 容疑者Xの献身)  
+  cover_url : (https://img3.doubanio.com/spic/s3254244.jpg)  
+  rating : (8.9分)  
+  number_of_comments : (111153人评价)  
+  quote : ([日] 东野圭吾 / 刘子倩 / 南海出版公司 / 2008-9 / 28.00)
+
+
+第14名：
+  name : (1988：我想和这个世界谈谈 )  
+  cover_url : (https://img3.doubanio.com/spic/s4477716.jpg)  
+  rating : (7.9分)  
+  number_of_comments : (115107人评价)  
+  quote : (韩寒 / 国际文化出版公司 / 2010-9 / 25.00元)
+
+
+第15名：
+  name : (何以笙箫默 )  
+  cover_url : (https://img3.doubanio.com/spic/s2529195.jpg)  
+  rating : (8.0分)  
+  number_of_comments : (112220人评价)  
+  quote : (顾漫 / 朝华出版社 / 2007-4 / 15.00元)
+
+
+第16名：
+  name : (看见 )  
+  cover_url : (https://img3.doubanio.com/spic/s24468373.jpg)  
+  rating : (8.8分)  
+  number_of_comments : (103621人评价)  
+  quote : (柴静 / 广西师范大学出版社 / 2013-1-1 / 39.80元)
+
+
+第17名：
+  name : (简爱 Jane Eyre)  
+  cover_url : (https://img3.doubanio.com/spic/s5924326.jpg)  
+  rating : (8.5分)  
+  number_of_comments : (99327人评价)  
+  quote : ([英] 夏洛蒂·勃朗特 / 世界图书出版公司 / 2003-11 / 18.00元)
+
+
+第18名：
+  name : (平凡的世界（全三部） )  
+  cover_url : (https://img3.doubanio.com/spic/s1144911.jpg)  
+  rating : (9.0分)  
+  number_of_comments : (90717人评价)  
+  quote : (路遥 / 人民文学出版社 / 2005-1 / 64.00元)
+
+
+第19名：
+  name : (哈利·波特与魔法石 Harry Potter and the Philosopher's Stone)  
+  cover_url : (https://img3.doubanio.com/spic/s1990480.jpg)  
+  rating : (9.0分)  
+  number_of_comments : (80176人评价)  
+  quote : ([英] J. K. 罗琳 / 苏农 / 人民文学出版社 / 2000-9 / 19.50元)
+
+
+第20名：
+  name : (百年孤独 Cien años de soledad)  
+  cover_url : (https://img3.doubanio.com/spic/s6384944.jpg)  
+  rating : (9.2分)  
+  number_of_comments : (84276人评价)  
+  quote : ([哥伦比亚] 加西亚·马尔克斯 / 范晔 / 南海出版公司 / 2011-6 / 39.50元)
+
+
+第21名：
+  name : (飘（上下） Gone with the Wind)  
+  cover_url : (https://img1.doubanio.com/spic/s1078958.jpg)  
+  rating : (9.3分)  
+  number_of_comments : (71647人评价)  
+  quote : ([美国] 玛格丽特·米切尔 / 李美华 / 译林出版社 / 2000-9 / 40.00元)
+
+
+第22名：
+  name : (杜拉拉升职记 )  
+  cover_url : (https://img3.doubanio.com/spic/s3012803.jpg)  
+  rating : (7.8分)  
+  number_of_comments : (87998人评价)  
+  quote : (李可 / 陕西师范大学出版社 / 2007-9 / 26.00元)
+
+
+第23名：
+  name : (三重门 )  
+  cover_url : (https://img3.doubanio.com/spic/s1024882.jpg)  
+  rating : (7.4分)  
+  number_of_comments : (91955人评价)  
+  quote : (韩寒 / 作家出版社 / 2000-5 / 16.00)
+
+
+第24名：
+  name : (送你一颗子弹 )  
+  cover_url : (https://img1.doubanio.com/spic/s4243447.jpg)  
+  rating : (8.6分)  
+  number_of_comments : (80193人评价)  
+  quote : (刘瑜 / 上海三联书店 / 2010-1 / 25.00元)
+
+
+第25名：
+  name : (倾城之恋 )  
+  cover_url : (https://img3.doubanio.com/spic/s1077102.jpg)  
+  rating : (8.5分)  
+  number_of_comments : (81084人评价)  
+  quote : (张爱玲 / 花城出版社 / 1997-3-1 / 11.00)
+
+
+第26名：
+  name : (傲慢与偏见 Pride and Prejudice)  
+  cover_url : (https://img3.doubanio.com/spic/s4250062.jpg)  
+  rating : (8.8分)  
+  number_of_comments : (78301人评价)  
+  quote : ([英] 奥斯丁 / 张玲 / 人民文学出版社 / 1993-7 / 13.00元)
+
+
+第27名：
+  name : (天才在左 疯子在右  : 国内第一本精神病人访谈手记 )  
+  cover_url : (https://img1.doubanio.com/spic/s6340977.jpg)  
+  rating : (8.3分)  
+  number_of_comments : (81261人评价)  
+  quote : (高铭 / 武汉大学出版社 / 2010-2 / 29.80元)
+
+
+第28名：
+  name : (明朝那些事儿（壹）  : 洪武大帝 )  
+  cover_url : (https://img3.doubanio.com/spic/s1872653.jpg)  
+  rating : (8.8分)  
+  number_of_comments : (75572人评价)  
+  quote : (当年明月 / 中国友谊出版公司 / 2006-9 / 24.80)
+
+
+第29名：
+  name : (哈利·波特与阿兹卡班的囚徒 Harry Potter and the Prisoner of Azkaban)  
+  cover_url : (https://img3.doubanio.com/spic/s1074376.jpg)  
+  rating : (8.9分)  
+  number_of_comments : (68498人评价)  
+  quote : ([英] J. K. 罗琳 / 郑须弥 / 人民文学出版社 / 2000-9 / 26.50元)
+
+
+第30名：
+  name : (三体Ⅱ  : 黑暗森林 )  
+  cover_url : (https://img3.doubanio.com/spic/s4542660.jpg)  
+  rating : (9.2分)  
+  number_of_comments : (69518人评价)  
+  quote : (刘慈欣 / 重庆出版社 / 2008-5 / 32.00)
+
+
+第31名：
+  name : (哈利·波特与密室 Harry Potter And The Chamber Of Secrets)  
+  cover_url : (https://img3.doubanio.com/spic/s1557672.jpg)  
+  rating : (8.8分)  
+  number_of_comments : (66253人评价)  
+  quote : ([英] J. K. 罗琳 / 马爱新 / 人民文学出版社 / 2000-9 / 22.00元)
+
+
+第32名：
+  name : (三体Ⅲ  : 死神永生 )  
+  cover_url : (https://img3.doubanio.com/spic/s26012674.jpg)  
+  rating : (9.2分)  
+  number_of_comments : (69213人评价)  
+  quote : (刘慈欣 / 重庆出版社 / 2010-12-1 / 38.00元)
+
+
+第33名：
+  name : (幻城 )  
+  cover_url : (https://img1.doubanio.com/spic/s1100387.jpg)  
+  rating : (7.1分)  
+  number_of_comments : (86242人评价)  
+  quote : (郭敬明 / 春风文艺出版社 / 2003-1 / 28.00元)
+
+
+第34名：
+  name : (致我们终将逝去的青春 )  
+  cover_url : (https://img3.doubanio.com/spic/s2652662.jpg)  
+  rating : (7.9分)  
+  number_of_comments : (77694人评价)  
+  quote : (辛夷坞 / 朝华出版社 / 2007-8 / 25.00元)
+
+
+第35名：
+  name : (情人 L'Amant)  
+  cover_url : (https://img1.doubanio.com/spic/s1444578.jpg)  
+  rating : (8.1分)  
+  number_of_comments : (76785人评价)  
+  quote : ([法] 玛格丽特·杜拉斯 / 王道乾 / 上海译文出版社 / 2005-7 / 20.00元)
+
+
+第36名：
+  name : (独唱团（第一辑） )  
+  cover_url : (https://img3.doubanio.com/spic/s4436571.jpg)  
+  rating : (7.8分)  
+  number_of_comments : (78608人评价)  
+  quote : (韩寒 主编 / 书海出版社 / 2010-7-6 / 16.00元)
+
+
+第37名：
+  name : (莲花 )  
+  cover_url : (https://img1.doubanio.com/spic/s1513548.jpg)  
+  rating : (8.0分)  
+  number_of_comments : (76031人评价)  
+  quote : (安妮宝贝 / 作家出版社 / 2006-3 / 25.00元)
+
+
+第38名：
+  name : (目送 )  
+  cover_url : (https://img1.doubanio.com/spic/s3984108.jpg)  
+  rating : (8.7分)  
+  number_of_comments : (70649人评价)  
+  quote : (龙应台 / 生活·读书·新知三联书店 / 2009-10 / 39.00元)
+
+
+第39名：
+  name : (1Q84 BOOK 1  : 4月～6月 )  
+  cover_url : (https://img3.doubanio.com/spic/s4363464.jpg)  
+  rating : (8.3分)  
+  number_of_comments : (72337人评价)  
+  quote : ([日] 村上春树 / 施小炜 / 南海出版公司 / 2010-5 / 36.00元)
+
+
+第40名：
+  name : (狼图腾 )  
+  cover_url : (https://img3.doubanio.com/spic/s1466042.jpg)  
+  rating : (8.3分)  
+  number_of_comments : (71047人评价)  
+  quote : (姜戎 / 长江文艺出版社 / 2004-4 / 32.00元)
+
+
+第41名：
+  name : (万历十五年 )  
+  cover_url : (https://img3.doubanio.com/spic/s1800355.jpg)  
+  rating : (8.9分)  
+  number_of_comments : (52767人评价)  
+  quote : ([美] 黄仁宇 / 生活·读书·新知三联书店 / 1997-5 / 18.00元)
+
+
+第42名：
+  name : (哈利·波特与火焰杯 Harry Potter and the Goblet of Fire)  
+  cover_url : (https://img3.doubanio.com/spic/s1072746.jpg)  
+  rating : (8.9分)  
+  number_of_comments : (66517人评价)  
+  quote : ([英] J. K. 罗琳 / 马爱新 / 人民文学出版社 / 2001-5 / 39.80元)
+
+
+第43名：
+  name : (微微一笑很倾城 )  
+  cover_url : (https://img1.doubanio.com/spic/s10320248.jpg)  
+  rating : (8.1分)  
+  number_of_comments : (71365人评价)  
+  quote : (顾漫 / 江苏文艺出版社 / 2009-8 / 25.00)
+
+
+第44名：
+  name : (向左走·向右走 )  
+  cover_url : (https://img3.doubanio.com/spic/s1557610.jpg)  
+  rating : (8.4分)  
+  number_of_comments : (68738人评价)  
+  quote : (幾米 / 生活·读书·新知三联书店 / 2002-8 / 16.00元)
+
+
+第45名：
+  name : (我们仨 )  
+  cover_url : (https://img3.doubanio.com/spic/s1015872.jpg)  
+  rating : (8.6分)  
+  number_of_comments : (64427人评价)  
+  quote : (杨绛 / 生活·读书·新知三联书店 / 2003-7 / 18.80元)
+
+
+第46名：
+  name : (边城 )  
+  cover_url : (https://img1.doubanio.com/spic/s1595557.jpg)  
+  rating : (8.6分)  
+  number_of_comments : (61222人评价)  
+  quote : (沈从文 / 北岳文艺出版社 / 2002-4 / 12.00元)
+
+
+第47名：
+  name : (悲伤逆流成河 )  
+  cover_url : (https://img3.doubanio.com/spic/s2405994.jpg)  
+  rating : (6.3分)  
+  number_of_comments : (79995人评价)  
+  quote : (郭敬明 / 长江文艺出版社 / 2007-5 / 24.00元)
+
+
+第48名：
+  name : (长安乱 )  
+  cover_url : (https://img1.doubanio.com/spic/s1563589.jpg)  
+  rating : (7.4分)  
+  number_of_comments : (70825人评价)  
+  quote : (韩寒 / 中国青年出版社 / 2004-8 / 20.00元)
+
+
+第49名：
+  name : (天龙八部 )  
+  cover_url : (https://img1.doubanio.com/spic/s23632058.jpg)  
+  rating : (9.0分)  
+  number_of_comments : (52150人评价)  
+  quote : (金庸 / 三联书店 / 1994-5 / 96.0)
+
+
+第50名：
+  name : (穆斯林的葬礼 )  
+  cover_url : (https://img3.doubanio.com/spic/s1790771.jpg)  
+  rating : (8.3分)  
+  number_of_comments : (62447人评价)  
+  quote : (霍达 / 北京十月文艺出版社 / 1988-12-1 / 32.00)
+
+
+第51名：
+  name : (Harry Potter and the Deathly Hallows )  
+  cover_url : (https://img3.doubanio.com/spic/s2352093.jpg)  
+  rating : (8.9分)  
+  number_of_comments : (6425人评价)  
+  quote : (J.K.Rowling / Arthur A. Levine Books / 2007-7-21 / 34.99美元)
+
+
+第52名：
+  name : (月亮和六便士 The Moon and Sixpence)  
+  cover_url : (https://img1.doubanio.com/spic/s2659208.jpg)  
+  rating : (8.9分)  
+  number_of_comments : (57751人评价)  
+  quote : ([英] 毛姆 / 傅惟慈 / 上海译文出版社 / 2006-8 / 15.00元)
+
+
+第53名：
+  name : (哈利·波特与混血王子 Harry Potter and the Half-Blood Prince)  
+  cover_url : (https://img3.doubanio.com/spic/s1447381.jpg)  
+  rating : (8.8分)  
+  number_of_comments : (58208人评价)  
+  quote : ([英] J. K. 罗琳 / 马爱农 / 人民文学出版社 / 2005-10 / 58.00元)
+
+
+第54名：
+  name : (一个人的好天气 ひとり日和)  
+  cover_url : (https://img3.doubanio.com/spic/s2732804.jpg)  
+  rating : (7.6分)  
+  number_of_comments : (65790人评价)  
+  quote : ([日] 青山七惠 / 竺家荣 / 上海译文出版社 / 2007-9 / 15.00元)
+
+
+第55名：
+  name : (1995-2005夏至未至 )  
+  cover_url : (https://img3.doubanio.com/spic/s1302594.jpg)  
+  rating : (7.4分)  
+  number_of_comments : (66178人评价)  
+  quote : (郭敬明 / 春风文艺出版社 / 2005-2 / 24.00元)
+
+
+第56名：
+  name : (苏菲的世界 Sofies verden)  
+  cover_url : (https://img3.doubanio.com/spic/s2153661.jpg)  
+  rating : (8.5分)  
+  number_of_comments : (57712人评价)  
+  quote : (（挪威）乔斯坦·贾德 / 萧宝森 / 作家出版社 / 1999-04 / 26.80)
+
+
+第57名：
+  name : (喜宝 )  
+  cover_url : (https://img1.doubanio.com/spic/s5813979.jpg)  
+  rating : (8.1分)  
+  number_of_comments : (40480人评价)  
+  quote : (亦舒 / 新世界出版社 / 2007-2 / 22.00元)
+
+
+第58名：
+  name : (放学后 はうかご)  
+  cover_url : (https://img3.doubanio.com/spic/s4066862.jpg)  
+  rating : (7.6分)  
+  number_of_comments : (61776人评价)  
+  quote : ([日]东野圭吾 / 赵峻 / 南海出版公司 / 2010-1 / 20.00元)
+
+
+第59名：
+  name : (哈利·波特与凤凰社 Harry Potter and the Order of the Phoenix)  
+  cover_url : (https://img1.doubanio.com/spic/s1100627.jpg)  
+  rating : (8.6分)  
+  number_of_comments : (54804人评价)  
+  quote : ([英] J. K. 罗琳 / 马爱农 / 人民文学出版社 / 2003-9 / 59.00元)
+
+
+第60名：
+  name : (文化苦旅 )  
+  cover_url : (https://img3.doubanio.com/spic/s2166670.jpg)  
+  rating : (7.8分)  
+  number_of_comments : (59455人评价)  
+  quote : (余秋雨 / 东方出版中心 / 2001-4 / 22.00元)
+
+
+第61名：
+  name : (海边的卡夫卡 )  
+  cover_url : (https://img3.doubanio.com/spic/s1094940.jpg)  
+  rating : (8.1分)  
+  number_of_comments : (57378人评价)  
+  quote : ([日] 村上春树 / 林少华 / 上海译文出版社 / 2003-4 / 25.00元)
+
+
+第62名：
+  name : (盗墓笔记  : 七星鲁王宫 )  
+  cover_url : (https://img3.doubanio.com/spic/s4442295.jpg)  
+  rating : (8.4分)  
+  number_of_comments : (55543人评价)  
+  quote : (南派三叔 / 中国友谊出版公司 / 2007-1 / 26.80元)
+
+
+第63名：
+  name : (三国演义（全二册） )  
+  cover_url : (https://img3.doubanio.com/spic/s1076932.jpg)  
+  rating : (9.2分)  
+  number_of_comments : (51580人评价)  
+  quote : ([明] 罗贯中 / 人民文学出版社 / 1998-05 / 39.50元)
+
+
+第64名：
+  name : (许三观卖血记 )  
+  cover_url : (https://img3.doubanio.com/spic/s1074291.jpg)  
+  rating : (8.6分)  
+  number_of_comments : (54063人评价)  
+  quote : (余华 / 南海出版公司 / 1998-9 / 16.80元)
+
+
+第65名：
+  name : (基督山伯爵 Le Comte de Monte-Cristo)  
+  cover_url : (https://img3.doubanio.com/spic/s3248016.jpg)  
+  rating : (8.9分)  
+  number_of_comments : (47227人评价)  
+  quote : (大仲马 / 周克希 / 上海译文出版社 / 1991-12-1 / 43.90元)
+
+
+第66名：
+  name : (恶意 悪意)  
+  cover_url : (https://img3.doubanio.com/spic/s3814606.jpg)  
+  rating : (8.4分)  
+  number_of_comments : (54752人评价)  
+  quote : ([日] 东野圭吾 / 娄美莲 / 南海出版公司 / 2009-6 / 18.00)
+
+
+第67名：
+  name : (窗边的小豆豆 )  
+  cover_url : (https://img3.doubanio.com/spic/s1067911.jpg)  
+  rating : (8.7分)  
+  number_of_comments : (53126人评价)  
+  quote : ([日] 黑柳彻子 著 / 赵玉皎 / 南海出版公司 / 2003-1 / 20.00元)
+
+
+第68名：
+  name : (兄弟（上） )  
+  cover_url : (https://img3.doubanio.com/spic/s1427312.jpg)  
+  rating : (8.3分)  
+  number_of_comments : (55297人评价)  
+  quote : (余华 / 上海文艺出版社 / 2005-8 / 16.00元)
+
+
+第69名：
+  name : (撒哈拉的故事 )  
+  cover_url : (https://img3.doubanio.com/spic/s3563113.jpg)  
+  rating : (9.0分)  
+  number_of_comments : (51603人评价)  
+  quote : (三毛 / 皇冠出版社 / 1976 / 160 TWD)
+
+
+第70名：
+  name : (呼啸山庄 Wuthering Heights)  
+  cover_url : (https://img3.doubanio.com/spic/s1095383.jpg)  
+  rating : (8.4分)  
+  number_of_comments : (53245人评价)  
+  quote : (艾米莉·勃朗特 / 张扬 / 人民文学出版社 / 1999-1 / 27.30元)
+
+
+第71名：
+  name : (笑傲江湖（全四册） )  
+  cover_url : (https://img3.doubanio.com/spic/s2157335.jpg)  
+  rating : (8.9分)  
+  number_of_comments : (46824人评价)  
+  quote : (金庸 / 生活·读书·新知三联书店 / 1994-5 / 76.80元)
+
+
+第72名：
+  name : (悟空传  : 修订版 )  
+  cover_url : (https://img3.doubanio.com/spic/s9026255.jpg)  
+  rating : (8.4分)  
+  number_of_comments : (52340人评价)  
+  quote : (今何在 / 光明日报出版社 / 2001-4 / 14.80元)
+
+
+第73名：
+  name : (三生三世 十里桃花 )  
+  cover_url : (https://img1.doubanio.com/spic/s3551687.jpg)  
+  rating : (8.3分)  
+  number_of_comments : (52935人评价)  
+  quote : (唐七公子 / 沈阳出版社 / 2009-1 / 26.80)
+
+
+第74名：
+  name : (黄金时代  : 时代三部曲 )  
+  cover_url : (https://img3.doubanio.com/spic/s1076372.jpg)  
+  rating : (8.8分)  
+  number_of_comments : (50332人评价)  
+  quote : (王小波 / 花城出版社 / 1999-3 / 19.00元)
+
+
+第75名：
+  name : (民主的细节  : 美国当代政治观察随笔 )  
+  cover_url : (https://img1.doubanio.com/spic/s4146437.jpg)  
+  rating : (8.6分)  
+  number_of_comments : (50387人评价)  
+  quote : (刘瑜 / 上海三联书店 / 2009-6 / 25.00)
+
+
+第76名：
+  name : (少有人走的路  : 心智成熟的旅程 )  
+  cover_url : (https://img3.doubanio.com/spic/s2144391.jpg)  
+  rating : (8.4分)  
+  number_of_comments : (50280人评价)  
+  quote : ([美] M·斯科特·派克 / 于海生 / 吉林文史出版社 / 2007-1 / 26.00元)
+
+
+第77名：
+  name : (遇见未知的自己 )  
+  cover_url : (https://img3.doubanio.com/spic/s3403254.jpg)  
+  rating : (8.1分)  
+  number_of_comments : (51233人评价)  
+  quote : (张德芬 / 华夏出版社 / 2008-1 / 29.00)
+
+
+第78名：
+  name : (亲爱的安德烈 )  
+  cover_url : (https://img1.doubanio.com/spic/s3993878.jpg)  
+  rating : (8.7分)  
+  number_of_comments : (48495人评价)  
+  quote : (龙应台 / 人民文学出版社 / 2008-12 / 26.00)
+
+
+第79名：
+  name : (福尔摩斯探案全集（上中下） )  
+  cover_url : (https://img3.doubanio.com/spic/s1229240.jpg)  
+  rating : (9.2分)  
+  number_of_comments : (46116人评价)  
+  quote : ([英] 阿·柯南道尔 / 丁钟华 等 / 群众出版社 / 1981-8 / 53.00元/68.00元)
+
+
+第80名：
+  name : (从你的全世界路过  : 让所有人心动的故事 )  
+  cover_url : (https://img3.doubanio.com/spic/s27102925.jpg)  
+  rating : (7.3分)  
+  number_of_comments : (55217人评价)  
+  quote : (张嘉佳 / 湖南文艺出版社 / 2013-11-1 / 36.00元)
+
+
+第81名：
+  name : (一九八四·动物农场 Nineteen Eighty-Four)  
+  cover_url : (https://img3.doubanio.com/spic/s1089916.jpg)  
+  rating : (9.2分)  
+  number_of_comments : (23665人评价)  
+  quote : ([英] 乔治·奥威尔 / 董乐山 / 上海译文出版社 / 2003-4 / 23.00元)
+
+
+第82名：
+  name : (小时代1.0折纸时代 )  
+  cover_url : (https://img3.doubanio.com/spic/s3251696.jpg)  
+  rating : (6.7分)  
+  number_of_comments : (57464人评价)  
+  quote : (郭敬明 / 长江文艺出版社 / 2008-10 / 29.80元)
+
+
+第83名：
+  name : (灿烂千阳 A Thousand Splendid Suns)  
+  cover_url : (https://img3.doubanio.com/spic/s2651394.jpg)  
+  rating : (8.7分)  
+  number_of_comments : (46481人评价)  
+  quote : ([美] 卡勒德·胡赛尼 / 李继宏 / 上海人民出版社 / 2007-9 / 28.00元)
+
+
+第84名：
+  name : (霍乱时期的爱情 El amor en los tiempos del cólera)  
+  cover_url : (https://img3.doubanio.com/spic/s11284102.jpg)  
+  rating : (9.0分)  
+  number_of_comments : (45906人评价)  
+  quote : ([哥伦比亚] 加西亚·马尔克斯 / 杨玲 / 南海出版公司 / 2012-9-1 / 39.50元)
+
+
+第85名：
+  name : (百年孤独 Cien años de soledad)  
+  cover_url : (https://img1.doubanio.com/spic/s2785398.jpg)  
+  rating : (8.9分)  
+  number_of_comments : (46039人评价)  
+  quote : ([哥伦比亚] 加西亚·马尔克斯 / 黄锦炎 / 上海译文出版社 / 1989-10 / 12.70元)
+
+
+第86名：
+  name : (老人与海 The Old Man and the Sea)  
+  cover_url : (https://img3.doubanio.com/spic/s1050021.jpg)  
+  rating : (8.3分)  
+  number_of_comments : (48455人评价)  
+  quote : (海明威 / 吴劳 / 上海译文出版社 / 1999-10 / 8.20元)
+
+
+第87名：
+  name : (素年锦时 )  
+  cover_url : (https://img3.doubanio.com/spic/s2686185.jpg)  
+  rating : (7.8分)  
+  number_of_comments : (50305人评价)  
+  quote : (安妮宝贝 / 作家出版社 / 2007-9 / 27.00元)
+
+
+第88名：
+  name : (洛丽塔 )  
+  cover_url : (https://img1.doubanio.com/spic/s1483347.jpg)  
+  rating : (7.7分)  
+  number_of_comments : (50204人评价)  
+  quote : ([美] 弗拉基米尔·纳博科夫 / 主万 / 上海译文出版社 / 2005-12 / 27.00元)
+
+
+第89名：
+  name : (第一次的亲密接触 )  
+  cover_url : (https://img3.doubanio.com/spic/s1327750.jpg)  
+  rating : (7.4分)  
+  number_of_comments : (51270人评价)  
+  quote : (蔡智恒 / 知识出版社 / 1999-11-1 / 12.80)
+
+
+第90名：
+  name : (1Q84 BOOK 2  : 7月～9月 )  
+  cover_url : (https://img3.doubanio.com/spic/s4393610.jpg)  
+  rating : (8.4分)  
+  number_of_comments : (46261人评价)  
+  quote : ([日] 村上春树 / 施小炜 / 南海出版公司 / 2010-6 / 36.00元)
+
+
+第91名：
+  name : (情书 ラヴレター)  
+  cover_url : (https://img3.doubanio.com/spic/s1127135.jpg)  
+  rating : (8.6分)  
+  number_of_comments : (44106人评价)  
+  quote : ([日] 岩井俊二 / 穆晓芳 / 天津人民出版社 / 2004-7 / 18.00元)
+
+
+第92名：
+  name : (彼岸花 )  
+  cover_url : (https://img3.doubanio.com/spic/s1077536.jpg)  
+  rating : (7.8分)  
+  number_of_comments : (47732人评价)  
+  quote : (安妮宝贝 / 南海出版公司 / 2001-9 / 20.00元)
+
+
+第93名：
+  name : (一座城池 )  
+  cover_url : (https://img3.doubanio.com/spic/s1627352.jpg)  
+  rating : (7.4分)  
+  number_of_comments : (49578人评价)  
+  quote : (韩寒 / 二十一世纪出版社 / 2006-1 / 19.90元)
+
+
+第94名：
+  name : (白夜行  : 东野圭吾作品02 )  
+  cover_url : (https://img1.doubanio.com/spic/s24514468.jpg)  
+  rating : (9.2分)  
+  number_of_comments : (41708人评价)  
+  quote : ([日] 东野圭吾 / 刘姿君 / 南海出版公司 / 2013-1-1 / 39.50元)
+
+
+第95名：
+  name : (麦田里的守望者 The Catcher in the Rye)  
+  cover_url : (https://img3.doubanio.com/spic/s2738366.jpg)  
+  rating : (7.9分)  
+  number_of_comments : (46774人评价)  
+  quote : ([美国] J. D. 塞林格 / 施咸荣 / 译林出版社 / 1997-2 / 7.80元)
+
+
+第96名：
+  name : (他的国 )  
+  cover_url : (https://img1.doubanio.com/spic/s3557848.jpg)  
+  rating : (7.5分)  
+  number_of_comments : (48610人评价)  
+  quote : (韩寒 / 万卷出版公司 / 2009-1 / 25.00元)
+
+
+第97名：
+  name : (神雕侠侣 )  
+  cover_url : (https://img3.doubanio.com/spic/s26018916.jpg)  
+  rating : (8.8分)  
+  number_of_comments : (42518人评价)  
+  quote : (金庸 / 三联书店 / 1994-5 / 76.8)
+
+
+第98名：
+  name : (牧羊少年奇幻之旅 O Alquimista)  
+  cover_url : (https://img1.doubanio.com/spic/s3668327.jpg)  
+  rating : (8.7分)  
+  number_of_comments : (42449人评价)  
+  quote : ([巴西]保罗·柯艾略 / 丁文林 / 南海出版公司 / 2009-3-1 / 25.00元)
+
+
+第99名：
+  name : (八月未央 )  
+  cover_url : (https://img1.doubanio.com/spic/s1084388.jpg)  
+  rating : (7.5分)  
+  number_of_comments : (47031人评价)  
+  quote : (安妮宝贝 / 作家出版社 / 2001-1 / 16.00元)
+
+
+第100名：
+  name : (这些都是你给我的爱 )  
+  cover_url : (https://img3.doubanio.com/spic/s4219471.jpg)  
+  rating : (8.5分)  
+  number_of_comments : (42480人评价)  
+  quote : (文：安东尼 / 长江文艺出版社 / 2010-3 / 24.80元)
+
+
+第101名：
+  name : (西决 )  
+  cover_url : (https://img3.doubanio.com/spic/s3658646.jpg)  
+  rating : (8.0分)  
+  number_of_comments : (44623人评价)  
+  quote : (笛安 / 长江文艺出版社 / 2009-3 / 22.80元)
+
+
+第102名：
+  name : (茶花女 La Dame aux camélias)  
+  cover_url : (https://img1.doubanio.com/spic/s1008927.jpg)  
+  rating : (8.1分)  
+  number_of_comments : (43845人评价)  
+  quote : (小仲马 / 王振孙 / 外国文学出版社 / 1997-03-01 / 9.00)
+
+
+第103名：
+  name : (清醒纪 )  
+  cover_url : (https://img3.doubanio.com/spic/s1071442.jpg)  
+  rating : (7.9分)  
+  number_of_comments : (44185人评价)  
+  quote : (安妮宝贝 / 天津人民出版社 / 2004-10 / 22.00元)
+
+
+第104名：
+  name : (这些人，那些事 )  
+  cover_url : (https://img3.doubanio.com/spic/s6828981.jpg)  
+  rating : (8.8分)  
+  number_of_comments : (40036人评价)  
+  quote : (吴念真 / 译林出版社 / 2011-9 / 28.00元)
+
+
+第105名：
+  name : (芒果街上的小屋 The House on Mango Street)  
+  cover_url : (https://img3.doubanio.com/spic/s1668712.jpg)  
+  rating : (7.8分)  
+  number_of_comments : (42658人评价)  
+  quote : ([美国] 桑德拉·希斯内罗丝 / 潘帕 / 译林出版社 / 2006-6 / 24.50元)
+
+
+第106名：
+  name : (陪安东尼度过漫长岁月 )  
+  cover_url : (https://img3.doubanio.com/spic/s2998096.jpg)  
+  rating : (8.4分)  
+  number_of_comments : (40015人评价)  
+  quote : (安东尼 / 长江文艺出版社 / 2008-3 / 18.00)
+
+
+第107名：
+  name : (明朝那些事儿（贰）  : 万国来朝 )  
+  cover_url : (https://img3.doubanio.com/spic/s4428714.jpg)  
+  rating : (8.9分)  
+  number_of_comments : (38166人评价)  
+  quote : (当年明月 / 中国友谊出版公司 / 2007-1 / 24.80)
+
+
+第108名：
+  name : (灌篮高手31 )  
+  cover_url : (https://img3.doubanio.com/spic/s2853431.jpg)  
+  rating : (9.5分)  
+  number_of_comments : (26292人评价)  
+  quote : ([日] 井上雄彦 / 邹宁 / 长春出版社 / 2005-1 / 7.50元)
+
+
+第109名：
+  name : (东方快车谋杀案 Murder on the Orient Express)  
+  cover_url : (https://img1.doubanio.com/spic/s1765799.jpg)  
+  rating : (9.0分)  
+  number_of_comments : (31033人评价)  
+  quote : ([英] 阿加莎·克里斯蒂 / 陈尧光 / 人民文学出版社 / 2006-5 / 18.00元)
+
+
+第110名：
+  name : (蔡康永的说话之道 )  
+  cover_url : (https://img3.doubanio.com/spic/s4578461.jpg)  
+  rating : (7.2分)  
+  number_of_comments : (45220人评价)  
+  quote : (蔡康永 著 / 沈阳出版社 / 2010-10 / 25.00元)
+
+
+第111名：
+  name : (当我谈跑步时我谈些什么 走ることについて語るときに僕の語ること)  
+  cover_url : (https://img3.doubanio.com/spic/s3507580.jpg)  
+  rating : (8.1分)  
+  number_of_comments : (40183人评价)  
+  quote : ([日] 村上春树 / 施小炜 / 南海出版公司 / 2009-1 / 25.00)
+
+
+第112名：
+  name : (羊脂球 )  
+  cover_url : (https://img3.doubanio.com/spic/s1469280.jpg)  
+  rating : (8.0分)  
+  number_of_comments : (40024人评价)  
+  quote : (（法）莫泊桑 / 柳鸣九 / 北京燕山出版社 / 2007-6 / 13.50元)
+
+
+第113名：
+  name : (撒哈拉的故事 )  
+  cover_url : (https://img3.doubanio.com/spic/s1066570.jpg)  
+  rating : (9.2分)  
+  number_of_comments : (35602人评价)  
+  quote : (三毛 / 哈尔滨出版社 / 2003-8 / 15.80元)
+
+
+第114名：
+  name : (地下铁 )  
+  cover_url : (https://img3.doubanio.com/spic/s1672971.jpg)  
+  rating : (8.3分)  
+  number_of_comments : (38496人评价)  
+  quote : (幾米 / 辽宁教育出版社 / 2002-2 / 32.00元)
+
+
+第115名：
+  name : (山楂树之恋 )  
+  cover_url : (https://img3.doubanio.com/spic/s2684486.jpg)  
+  rating : (7.9分)  
+  number_of_comments : (39949人评价)  
+  quote : (艾米 / 江苏文艺出版社 / 2007-9 / 25.00元)
+
+
+第116名：
+  name : (鲁滨逊漂流记 )  
+  cover_url : (https://img3.doubanio.com/spic/s1242786.jpg)  
+  rating : (7.9分)  
+  number_of_comments : (39755人评价)  
+  quote : ([英] 笛福 / 马静 / 广西民族出版社 / 2002-1 / 9.20元)
+
+
+第117名：
+  name : (巴黎圣母院 Notre-Dame de Paris)  
+  cover_url : (https://img3.doubanio.com/spic/s1609162.jpg)  
+  rating : (8.3分)  
+  number_of_comments : (38204人评价)  
+  quote : ([法]雨果 / 陈敬容 / 人民文学出版社 / 1982-6 / 22.50元)
+
+
+第118名：
+  name : (活着 )  
+  cover_url : (https://img3.doubanio.com/spic/s27279654.jpg)  
+  rating : (9.3分)  
+  number_of_comments : (35250人评价)  
+  quote : (余华 / 作家出版社 / 2012-8-1 / 20.00元)
+
+
+第119名：
+  name : (一个陌生女人的来信 Brief einer Unbekannten)  
+  cover_url : (https://img3.doubanio.com/spic/s10310945.jpg)  
+  rating : (8.7分)  
+  number_of_comments : (36746人评价)  
+  quote : ([奥] 斯台芬·茨威格 / 张玉书 / 上海译文出版社 / 2007-7 / 20.00元)
+
+
+第120名：
+  name : (沉默的大多数  : 王小波杂文随笔全编 )  
+  cover_url : (https://img1.doubanio.com/spic/s1447349.jpg)  
+  rating : (9.0分)  
+  number_of_comments : (35154人评价)  
+  quote : (王小波 / 中国青年出版社 / 1997-10 / 27.00元)
+
+
+第121名：
+  name : (人生若只如初见  : 古典诗词的美丽与哀愁 )  
+  cover_url : (https://img1.doubanio.com/spic/s1787057.jpg)  
+  rating : (7.3分)  
+  number_of_comments : (40676人评价)  
+  quote : (安意如 / 天津教育出版社 / 2006-8 / 23.80元)
+
+
+第122名：
+  name : (麦田里的守望者 The Catcher in the Rye)  
+  cover_url : (https://img1.doubanio.com/spic/s2380159.jpg)  
+  rating : (8.1分)  
+  number_of_comments : (38059人评价)  
+  quote : ([美国] J. D. 塞林格 / 孙仲旭 / 译林出版社 / 2007-3 / 28.00元)
+
+
+第123名：
+  name : (华胥引（全二册） )  
+  cover_url : (https://img3.doubanio.com/spic/s4599550.jpg)  
+  rating : (8.6分)  
+  number_of_comments : (35588人评价)  
+  quote : (唐七公子 / 现代出版社 / 2011-1 / 39.80元)
+
+
+第124名：
+  name : (肖申克的救赎 Different Seasons)  
+  cover_url : (https://img3.doubanio.com/spic/s4007145.jpg)  
+  rating : (9.1分)  
+  number_of_comments : (34163人评价)  
+  quote : ([美] 斯蒂芬·金 / 施寄青 / 人民文学出版社 / 2006-7 / 29.90元)
+
+
+第125名：
+  name : (安徒生童话故事集 )  
+  cover_url : (https://img3.doubanio.com/spic/s1034062.jpg)  
+  rating : (9.1分)  
+  number_of_comments : (34033人评价)  
+  quote : (（丹麦）安徒生 / 叶君健 / 人民文学出版社 / 1997-08 / 25.00)
+
+
+第126名：
+  name : (且听风吟 風の歌を聴け)  
+  cover_url : (https://img1.doubanio.com/spic/s1029019.jpg)  
+  rating : (7.8分)  
+  number_of_comments : (38339人评价)  
+  quote : ([日] 村上春树 / 林少华 / 上海译文出版社 / 2001-8 / 11.80元)
+
+
+第127名：
+  name : (挪威的森林 ノルウェイの森)  
+  cover_url : (https://img3.doubanio.com/spic/s2897086.jpg)  
+  rating : (8.4分)  
+  number_of_comments : (35705人评价)  
+  quote : ([日] 村上春树 / 林少华 / 上海译文出版社 / 2007-7 / 23.00元)
+
+
+第128名：
+  name : (岛上书店 The Storied Life of A. J. Fikry)  
+  cover_url : (https://img3.doubanio.com/spic/s28049685.jpg)  
+  rating : (7.7分)  
+  number_of_comments : (38498人评价)  
+  quote : ([美] 加布瑞埃拉·泽文 / 孙仲旭 / 江苏凤凰文艺出版社 / 2015-5 / CNY 35.00)
+
+
+第129名：
+  name : (年华是无效信 )  
+  cover_url : (https://img1.doubanio.com/spic/s2660837.jpg)  
+  rating : (7.6分)  
+  number_of_comments : (38323人评价)  
+  quote : (落落 / 春风文艺出版社 / 2005-2 / 20.00元)
+
+
+第130名：
+  name : (会有天使替我爱你 )  
+  cover_url : (https://img3.doubanio.com/spic/s1320494.jpg)  
+  rating : (6.8分)  
+  number_of_comments : (41410人评价)  
+  quote : (明晓溪 / 新世界出版社 / 2005-5 / 20.00元)
+
+
+第131名：
+  name : (泡沫之夏 )  
+  cover_url : (https://img3.doubanio.com/spic/s1914522.jpg)  
+  rating : (7.0分)  
+  number_of_comments : (40243人评价)  
+  quote : (明晓溪 / 新世界出版社 / 2006-3 / 20.00元)
+
+
+第132名：
+  name : (钢铁是怎样炼成的 How the Steel Was Tempered)  
+  cover_url : (https://img1.doubanio.com/spic/s2241708.jpg)  
+  rating : (7.6分)  
+  number_of_comments : (38137人评价)  
+  quote : ([苏] 尼·奥斯特洛夫斯基 / 曹缦西 / 译林出版社 / 1996-10 / 20.00元)
+
+
+第133名：
+  name : (小团圆 )  
+  cover_url : (https://img3.doubanio.com/spic/s4197443.jpg)  
+  rating : (7.6分)  
+  number_of_comments : (38168人评价)  
+  quote : (张爱玲 / 北京十月文艺出版社 / 2009-4 / 28.00)
+
+
+第134名：
+  name : (红玫瑰与白玫瑰 )  
+  cover_url : (https://img3.doubanio.com/spic/s3695882.jpg)  
+  rating : (8.3分)  
+  number_of_comments : (35277人评价)  
+  quote : (张爱玲 / 花城出版社 / 1996-06 / 12.80元)
+
+
+第135名：
+  name : (月亮忘記了 )  
+  cover_url : (https://img1.doubanio.com/spic/s1385508.jpg)  
+  rating : (8.5分)  
+  number_of_comments : (34558人评价)  
+  quote : (幾米 / 格林 / 2000-2-1 / NT$ 299)
+
+
+第136名：
+  name : (呐喊 )  
+  cover_url : (https://img3.doubanio.com/spic/s4696893.jpg)  
+  rating : (8.8分)  
+  number_of_comments : (33495人评价)  
+  quote : (鲁迅 / 人民文学出版社 / 1973年3月 / 0.36元)
+
+
+第137名：
+  name : (在路上 On the Road)  
+  cover_url : (https://img1.doubanio.com/spic/s2577057.jpg)  
+  rating : (7.8分)  
+  number_of_comments : (36474人评价)  
+  quote : ([美] 杰克·凯鲁亚克 / 王永年 / 上海译文出版社 / 2006-10 / 28.00元)
+
+
+第138名：
+  name : (哭泣的骆驼 )  
+  cover_url : (https://img3.doubanio.com/spic/s1020454.jpg)  
+  rating : (8.9分)  
+  number_of_comments : (28660人评价)  
+  quote : (三毛 / 哈尔滨出版社 / 2003-6 / 15.80元)
+
+
+第139名：
+  name : (射雕英雄传（全四册） )  
+  cover_url : (https://img3.doubanio.com/spic/s2157336.jpg)  
+  rating : (8.9分)  
+  number_of_comments : (30703人评价)  
+  quote : (金庸 / 生活·读书·新知三联书店 / 1999-04 / 47.00元)
+
+
+第140名：
+  name : (此间的少年 )  
+  cover_url : (https://img1.doubanio.com/spic/s1068707.jpg)  
+  rating : (8.4分)  
+  number_of_comments : (33852人评价)  
+  quote : (江南 / 华文出版社 / 2004-1 / 25.00元)
+
+
+第141名：
+  name : (白鹿原 )  
+  cover_url : (https://img1.doubanio.com/spic/s9137567.jpg)  
+  rating : (8.6分)  
+  number_of_comments : (33205人评价)  
+  quote : (陈忠实 / 人民文学出版社 / 1997年 / 28.00元)
+
+
+第142名：
+  name : (货币战争 )  
+  cover_url : (https://img3.doubanio.com/spic/s2533235.jpg)  
+  rating : (7.3分)  
+  number_of_comments : (37507人评价)  
+  quote : (宋鸿兵 编著 / 中信出版社 / 2007-6 / 38.00元)
+
+
+第143名：
+  name : (佳期如梦 )  
+  cover_url : (https://img1.doubanio.com/spic/s1991548.jpg)  
+  rating : (8.0分)  
+  number_of_comments : (34824人评价)  
+  quote : (匪我思存 / 新世界出版社 / 2007-2 / 20.00元)
+
+
+第144名：
+  name : (一個人住第5年 )  
+  cover_url : (https://img3.doubanio.com/spic/s7059163.jpg)  
+  rating : (8.4分)  
+  number_of_comments : (33466人评价)  
+  quote : (高木直子 / 洪俞君 / 大田 / 2004-12-1 / NT$220)
+
+
+第145名：
+  name : (原来你还在这里 )  
+  cover_url : (https://img3.doubanio.com/spic/s3358963.jpg)  
+  rating : (7.7分)  
+  number_of_comments : (35645人评价)  
+  quote : (辛夷坞 / 朝华出版社 / 2007-10 / 25.00元)
+
+
+第146名：
+  name : (告别薇安 )  
+  cover_url : (https://img3.doubanio.com/spic/s1650313.jpg)  
+  rating : (7.5分)  
+  number_of_comments : (36329人评价)  
+  quote : (安妮宝贝 / 中国社会科学出版社 / 2000-1 / 19.00)
+
+
+第147名：
+  name : (鬼吹灯之精绝古城  : 之精绝古城 )  
+  cover_url : (https://img3.doubanio.com/spic/s6048082.jpg)  
+  rating : (8.1分)  
+  number_of_comments : (34068人评价)  
+  quote : (天下霸唱 / 安徽文艺出版社 / 2006 / 25.0)
+
+
+第148名：
+  name : (明朝那些事儿（叁）  : 妖孽宫廷 )  
+  cover_url : (https://img3.doubanio.com/spic/s2544553.jpg)  
+  rating : (8.9分)  
+  number_of_comments : (31832人评价)  
+  quote : (当年明月 / 中国友谊出版公司 / 2007-4 / 24.80)
+
+
+第149名：
+  name : (时间旅行者的妻子 The Time Traveler´s Wife)  
+  cover_url : (https://img3.doubanio.com/spic/s2375756.jpg)  
+  rating : (8.1分)  
+  number_of_comments : (34142人评价)  
+  quote : ([美] 奥德丽·尼芬格 / 夏金 / 人民文学出版社 / 2007-4 / 29.90元)
+
+
+第150名：
+  name : (二三事 )  
+  cover_url : (https://img3.doubanio.com/spic/s1157535.jpg)  
+  rating : (7.7分)  
+  number_of_comments : (35067人评价)  
+  quote : (安妮宝贝 / 南海出版公司 / 2004-1 / 20.00元)
+
+
+第151名：
+  name : (常识 )  
+  cover_url : (https://img3.doubanio.com/spic/s3588323.jpg)  
+  rating : (8.1分)  
+  number_of_comments : (33629人评价)  
+  quote : (梁文道 / 广西师范大学出版社 / 2009-1 / 38.00)
+
+
+第152名：
+  name : (半生缘 )  
+  cover_url : (https://img1.doubanio.com/spic/s2838737.jpg)  
+  rating : (8.6分)  
+  number_of_comments : (31858人评价)  
+  quote : (张爱玲 / 北京十月文艺出版社 / 2006-12 / 28.00元)
+
+
+第153名：
+  name : (步步惊心 )  
+  cover_url : (https://img3.doubanio.com/spic/s1681146.jpg)  
+  rating : (8.1分)  
+  number_of_comments : (32989人评价)  
+  quote : (桐华 / 民族出版社 / 2006-6 / 25.00元)
+
+
+第154名：
+  name : (失恋33天  : 小说，或是指南 )  
+  cover_url : (https://img3.doubanio.com/spic/s6980516.jpg)  
+  rating : (8.1分)  
+  number_of_comments : (32880人评价)  
+  quote : (鲍鲸鲸 / 中信出版社 / 2010-1 / 25.00元)
+
+
+第155名：
+  name : (兄弟（下） )  
+  cover_url : (https://img3.doubanio.com/spic/s9109733.jpg)  
+  rating : (7.5分)  
+  number_of_comments : (34903人评价)  
+  quote : (余华 / 上海文艺出版社 / 2006-3 / 27.00元)
+
+
+第156名：
+  name : (嫌疑人X的献身 )  
+  cover_url : (https://img3.doubanio.com/spic/s4055190.jpg)  
+  rating : (9.0分)  
+  number_of_comments : (29872人评价)  
+  quote : (（日）东野圭吾 / 刘子倩 / 南海出版公司 / 2009年11月 / 19.80元)
+
+
+第157名：
+  name : (左手倒影，右手年华。 )  
+  cover_url : (https://img3.doubanio.com/spic/s1068023.jpg)  
+  rating : (6.7分)  
+  number_of_comments : (36776人评价)  
+  quote : (郭敬明 / 上海译文出版社 / 2003-5 / 16.00元)
+
+
+第158名：
+  name : (零下一度 )  
+  cover_url : (https://img3.doubanio.com/spic/s1028954.jpg)  
+  rating : (7.2分)  
+  number_of_comments : (34875人评价)  
+  quote : (韩寒 / 上海人民出版社 / 2000-08 / 12.00)
+
+
+第159名：
+  name : (无人生还 And Then There Were None)  
+  cover_url : (https://img3.doubanio.com/spic/s2962510.jpg)  
+  rating : (8.9分)  
+  number_of_comments : (29660人评价)  
+  quote : ([英] 阿加莎・克里斯蒂 / 祁阿红 / 人民文学出版社 / 2008-3 / 19.00)
+
+
+第160名：
+  name : (明朝那些事儿（1-9）  : 限量版 )  
+  cover_url : (https://img3.doubanio.com/spic/s3792001.jpg)  
+  rating : (9.1分)  
+  number_of_comments : (28853人评价)  
+  quote : (当年明月 / 中国海关出版社 / 2009-4 / 358.20元)
+
+
+第161名：
+  name : (鹿鼎记（全五册） )  
+  cover_url : (https://img3.doubanio.com/spic/s3134040.jpg)  
+  rating : (8.8分)  
+  number_of_comments : (26189人评价)  
+  quote : (金庸 / 广州出版社 花城出版社 / 2008-3 / 108.00元)
+
+
+第162名：
+  name : (像少年啦飞驰 )  
+  cover_url : (https://img1.doubanio.com/spic/s1080179.jpg)  
+  rating : (7.3分)  
+  number_of_comments : (34163人评价)  
+  quote : (韩寒 / 作家出版社 / 2002-1 / 16.00元)
+
+
+第163名：
+  name : (孤独六讲 )  
+  cover_url : (https://img3.doubanio.com/spic/s4075572.jpg)  
+  rating : (8.1分)  
+  number_of_comments : (31430人评价)  
+  quote : (蒋勋 / 广西师范大学出版社 / 2009-10-1 / 36.00元)
+
+
+第164名：
+  name : (盗墓笔记2  : 秦岭神树 )  
+  cover_url : (https://img3.doubanio.com/spic/s2376476.jpg)  
+  rating : (8.2分)  
+  number_of_comments : (31023人评价)  
+  quote : (南派三叔 / 中国友谊出版公司 / 2007-4 / 26.80元)
+
+
+第165名：
+  name : (左耳 )  
+  cover_url : (https://img3.doubanio.com/spic/s1520215.jpg)  
+  rating : (7.1分)  
+  number_of_comments : (34737人评价)  
+  quote : (饶雪漫 / 当代世界出版社 / 2006-2 / 22.00元)
+
+
+第166名：
+  name : (明朝那些事儿（肆）  : 粉饰太平 )  
+  cover_url : (https://img3.doubanio.com/spic/s2699632.jpg)  
+  rating : (8.8分)  
+  number_of_comments : (29364人评价)  
+  quote : (当年明月 / 中国友谊出版公司 / 2007-9 / 24.80)
+
+
+第167名：
+  name : (荆棘鸟 The Thorn Birds)  
+  cover_url : (https://img3.doubanio.com/spic/s2781615.jpg)  
+  rating : (8.6分)  
+  number_of_comments : (29742人评价)  
+  quote : ([澳] 考琳·麦卡洛 / 曾胡 / 译林出版社 / 1998-7 / 28.00元)
+
+
+第168名：
+  name : (被窝是青春的坟墓 )  
+  cover_url : (https://img3.doubanio.com/spic/s3028662.jpg)  
+  rating : (7.8分)  
+  number_of_comments : (31863人评价)  
+  quote : (七堇年 / 长江文艺出版社 / 2007-11 / 22.00元)
+
+
+第169名：
+  name : (幻夜  : 东野圭吾作品06 )  
+  cover_url : (https://img3.doubanio.com/spic/s3960322.jpg)  
+  rating : (7.6分)  
+  number_of_comments : (32420人评价)  
+  quote : (〔日〕东野圭吾 / 李炜 / 南海出版公司 / 2009年9月 / 28.00元)
+
+
+第170名：
+  name : (机器猫哆啦A梦23 )  
+  cover_url : (https://img3.doubanio.com/spic/s2273836.jpg)  
+  rating : (9.4分)  
+  number_of_comments : (27461人评价)  
+  quote : (藤子・F・不二雄 / 碧日 / 吉林美术出版社 / 1999-12-01 / 8.00)
+
+
+第171名：
+  name : (偷影子的人 Le voleur d'ombres)  
+  cover_url : (https://img1.doubanio.com/spic/s10339418.jpg)  
+  rating : (7.9分)  
+  number_of_comments : (31218人评价)  
+  quote : ((法)马克·李维 / 段韵灵 / 湖南文艺出版社 / 2012-6-20 / 29.80元)
+
+
+第172名：
+  name : (人间失格 人間失格)  
+  cover_url : (https://img3.doubanio.com/spic/s6100756.jpg)  
+  rating : (8.3分)  
+  number_of_comments : (30210人评价)  
+  quote : (太宰治 / 许时嘉 / 吉林出版集团有限责任公司 / 2009年9月 / 16.00元)
+
+
+第173名：
+  name : (我们台湾这些年  : 一个台湾青年写给13亿大陆同胞的一封家书 )  
+  cover_url : (https://img3.doubanio.com/spic/s6088056.jpg)  
+  rating : (7.4分)  
+  number_of_comments : (32685人评价)  
+  quote : (廖信忠 / 重庆出版集团 / 2009-11 / 29.80元)
+
+
+第174名：
+  name : (关于莉莉周的一切 リリイ・シュシュのすべて)  
+  cover_url : (https://img3.doubanio.com/spic/s1928640.jpg)  
+  rating : (7.7分)  
+  number_of_comments : (31809人评价)  
+  quote : ([日] 岩井俊二 / 张苓 / 天津人民出版社 / 2006-12 / 28.00元)
+
+
+第175名：
+  name : (寻路中国  : 从乡村到工厂的自驾之旅 )  
+  cover_url : (https://img1.doubanio.com/spic/s4575849.jpg)  
+  rating : (9.0分)  
+  number_of_comments : (28168人评价)  
+  quote : ([美] 彼得·海斯勒 / 李雪顺 / 上海译文出版社 / 2011-1 / 33.00元)
+
+
+第176名：
+  name : (了不起的盖茨比 The Great Gatsby)  
+  cover_url : (https://img3.doubanio.com/spic/s1005875.jpg)  
+  rating : (8.3分)  
+  number_of_comments : (29862人评价)  
+  quote : (菲茨杰拉德 / 姚乃强 / 人民文学出版社 / 2004-06 / 12.00元)
+
+
+第177名：
+  name : (爱你就像爱生命 )  
+  cover_url : (https://img3.doubanio.com/spic/s4661043.jpg)  
+  rating : (8.8分)  
+  number_of_comments : (28284人评价)  
+  quote : (王小波 / 上海锦绣文章出版社 / 2008-5 / 18.00元)
+
+
+第178名：
+  name : (大地之灯 )  
+  cover_url : (https://img3.doubanio.com/spic/s1994710.jpg)  
+  rating : (8.2分)  
+  number_of_comments : (29470人评价)  
+  quote : (七堇年 / 长江文艺出版社 / 2007-1 / 22.00元)
+
+
+第179名：
+  name : (动物农场 Animal Farm)  
+  cover_url : (https://img3.doubanio.com/spic/s2347590.jpg)  
+  rating : (9.2分)  
+  number_of_comments : (26994人评价)  
+  quote : ([英] 乔治·奥威尔 / 荣如德 / 上海译文出版社 / 2007-3 / 10.00元)
+
+
+第180名：
+  name : (格林童话全集 )  
+  cover_url : (https://img3.doubanio.com/spic/s1134341.jpg)  
+  rating : (8.9分)  
+  number_of_comments : (27535人评价)  
+  quote : (格林兄弟 / 魏以新 / 人民文学出版社 / 1994-11 / 21.45元)
+
+
+第181名：
+  name : (水仙已乘鲤鱼去 )  
+  cover_url : (https://img3.doubanio.com/spic/s9060522.jpg)  
+  rating : (7.8分)  
+  number_of_comments : (30221人评价)  
+  quote : (张悦然 / 作家出版社 / 2005-1 / 19.00元)
+
+
+第182名：
+  name : (麦琪的礼物  : 欧·亨利短篇小说经典 )  
+  cover_url : (https://img3.doubanio.com/spic/s1137441.jpg)  
+  rating : (8.6分)  
+  number_of_comments : (27965人评价)  
+  quote : ([美] 欧·亨利 / 张经浩 / 上海社会科学院出版社 / 2003-7 / 25.00元)
+
+
+第183名：
+  name : (1Q84 BOOK 3  : 10月～12月 )  
+  cover_url : (https://img3.doubanio.com/spic/s4577386.jpg)  
+  rating : (7.6分)  
+  number_of_comments : (30130人评价)  
+  quote : ([日] 村上春树 / 施小炜 / 南海出版公司 / 2011-1 / 39.50元)
+
+
+第184名：
+  name : (阿Q正传 )  
+  cover_url : (https://img3.doubanio.com/spic/s1074811.jpg)  
+  rating : (8.6分)  
+  number_of_comments : (27439人评价)  
+  quote : (鲁迅 / 上海书店出版社 / 2003-7-1 / 14.50)
+
+
+第185名：
+  name : (明朝那些事儿（伍）  : 帝国飘摇 )  
+  cover_url : (https://img3.doubanio.com/spic/s2967063.jpg)  
+  rating : (8.8分)  
+  number_of_comments : (26782人评价)  
+  quote : (当年明月 / 中国友谊出版公司 / 2008-3 / 28.80)
+
+
+第186名：
+  name : (盗墓笔记3  : 云顶天宫 )  
+  cover_url : (https://img3.doubanio.com/spic/s27274091.jpg)  
+  rating : (8.5分)  
+  number_of_comments : (27634人评价)  
+  quote : (南派三叔 / 中国友谊出版公司 / 2007-11 / 26.80元)
+
+
+第187名：
+  name : (历史深处的忧虑  : 近距离看美国之一 )  
+  cover_url : (https://img3.doubanio.com/spic/s1768916.jpg)  
+  rating : (9.0分)  
+  number_of_comments : (26347人评价)  
+  quote : (林达 / 生活·读书·新知三联书店 / 1997-5 / 19.00元)
+
+
+第188名：
+  name : (小时代2.0虚铜时代 )  
+  cover_url : (https://img3.doubanio.com/spic/s4604664.jpg)  
+  rating : (6.5分)  
+  number_of_comments : (32724人评价)  
+  quote : (郭敬明 / 长江文艺出版社 / 2010-1 / 26.80元)
+
+
+第189名：
+  name : (海贼王  : ONE PIECE )  
+  cover_url : (https://img1.doubanio.com/spic/s1492518.jpg)  
+  rating : (9.5分)  
+  number_of_comments : (24905人评价)  
+  quote : (尾田荣一郎 / 董科 / 浙江人民美术出版社 / 2007-11 / 7.5)
+
+
+第190名：
+  name : (尘埃落定 )  
+  cover_url : (https://img3.doubanio.com/spic/s9140762.jpg)  
+  rating : (8.4分)  
+  number_of_comments : (27246人评价)  
+  quote : (阿来 / 人民文学出版社 / 1998-1-1 / 22.0)
+
+
+第191名：
+  name : (乌合之众  : 大众心理研究 )  
+  cover_url : (https://img3.doubanio.com/spic/s1988393.jpg)  
+  rating : (8.4分)  
+  number_of_comments : (27151人评价)  
+  quote : ((法)古斯塔夫.勒庞 / 冯克利 / 中央编译出版社 / 1998-01 / 16.00元)
+
+
+第192名：
+  name : (巴别塔之犬 The Dogs of Babel)  
+  cover_url : (https://img3.doubanio.com/spic/s2609483.jpg)  
+  rating : (7.7分)  
+  number_of_comments : (28811人评价)  
+  quote : ([美] 卡罗琳·帕克丝特 / 何致和 / 南海出版公司 / 2007-7 / 22.00元)
+
+
+第193名：
+  name : (当我们谈论爱情时我们在谈论什么 What We Talk About When We Talk About Love)  
+  cover_url : (https://img3.doubanio.com/spic/s4145144.jpg)  
+  rating : (7.8分)  
+  number_of_comments : (28346人评价)  
+  quote : ([美] 雷蒙德·卡佛 / 小二 / 译林出版社 / 2010-1 / 22.00元)
+
+
+第194名：
+  name : (你好，旧时光（上 下） 玛丽苏病例报告)  
+  cover_url : (https://img1.doubanio.com/spic/s4293097.jpg)  
+  rating : (8.8分)  
+  number_of_comments : (25795人评价)  
+  quote : (八月长安 / 新世界出版社 / 2009-12 / 39.80元)
+
+
+第195名：
+  name : (1984 Nineteen Eighty-Four)  
+  cover_url : (https://img1.doubanio.com/spic/s4371408.jpg)  
+  rating : (9.3分)  
+  number_of_comments : (25025人评价)  
+  quote : ([英] 乔治·奥威尔 / 刘绍铭 / 北京十月文艺出版社 / 2010-4-1 / 28.00元)
+
+
+第196名：
+  name : (东霓 )  
+  cover_url : (https://img3.doubanio.com/spic/s4397380.jpg)  
+  rating : (8.2分)  
+  number_of_comments : (27240人评价)  
+  quote : (笛安 / 长江文艺出版社 / 2010-7-1 / 26.80元)
+
+
+第197名：
+  name : (橙  : 陪安东尼度过漫长岁月 Ⅱ )  
+  cover_url : (https://img3.doubanio.com/spic/s4512594.jpg)  
+  rating : (8.3分)  
+  number_of_comments : (26797人评价)  
+  quote : (安东尼 / 长江文艺出版社 / 2010-10 / 28.80元)
+
+
+第198名：
+  name : (黄金时代 )  
+  cover_url : (https://img1.doubanio.com/spic/s4083149.jpg)  
+  rating : (8.8分)  
+  number_of_comments : (25448人评价)  
+  quote : (王小波 / 陕西师范大学出版社 / 2009-07-01 / 23.00元)
+
+
+第199名：
+  name : (悲惨世界（上中下） Les Misérables)  
+  cover_url : (https://img3.doubanio.com/spic/s1148102.jpg)  
+  rating : (8.9分)  
+  number_of_comments : (25254人评价)  
+  quote : ([法] 雨果 / 李丹 / 人民文学出版社 / 1992-6 / 66.00元)
+
+
+第200名：
+  name : (香水  : 一个谋杀犯的故事 )  
+  cover_url : (https://img1.doubanio.com/spic/s1556748.jpg)  
+  rating : (8.5分)  
+  number_of_comments : (25938人评价)  
+  quote : ([德] 帕·聚斯金德 / 李清华 / 上海译文出版社 / 2005-5 / 20.00元)
+
+
+第201名：
+  name : (金锁记 )  
+  cover_url : (https://img3.doubanio.com/spic/s2976745.jpg)  
+  rating : (8.5分)  
+  number_of_comments : (26089人评价)  
+  quote : (张爱玲 / 哈尔滨出版社 / 2005年6月 / 13.5元)
+
+
+第202名：
+  name : (骆驼祥子 )  
+  cover_url : (https://img3.doubanio.com/spic/s1192660.jpg)  
+  rating : (8.2分)  
+  number_of_comments : (26631人评价)  
+  quote : (老舍 / 人民文学出版社 / 2000-3-1 / 12.00)
+
+
+第203名：
+  name : (我的路 )  
+  cover_url : (https://img3.doubanio.com/spic/s1445665.jpg)  
+  rating : (8.6分)  
+  number_of_comments : (25505人评价)  
+  quote : (寂地 / 北方妇女儿童出版社 / 2004-10 / 20.00元)
+
+
+第204名：
+  name : (草样年华  : 北X大的故事 )  
+  cover_url : (https://img3.doubanio.com/spic/s1068992.jpg)  
+  rating : (7.2分)  
+  number_of_comments : (29100人评价)  
+  quote : (孙睿 / 远方出版社 / 2004-1 / 19.50元)
+
+
+第205名：
+  name : (蔷薇岛屿 )  
+  cover_url : (https://img3.doubanio.com/spic/s3237601.jpg)  
+  rating : (8.0分)  
+  number_of_comments : (26873人评价)  
+  quote : (安妮宝贝 / 作家出版社 / 2002-8 / 18.00元)
+
+
+第206名：
+  name : (盗墓笔记4  : 蛇沼鬼城 )  
+  cover_url : (https://img1.doubanio.com/spic/s5951677.jpg)  
+  rating : (8.5分)  
+  number_of_comments : (25770人评价)  
+  quote : (南派三叔 / 中国友谊出版公司 / 2008-11 / 32.80元)
+
+
+第207名：
+  name : (匆匆那年（上下） )  
+  cover_url : (https://img3.doubanio.com/spic/s2892553.jpg)  
+  rating : (8.3分)  
+  number_of_comments : (25899人评价)  
+  quote : (九夜茴 / 东方出版社 / 2008-1 / 29.00)
+
+
+第208名：
+  name : (那些回不去的年少时光 )  
+  cover_url : (https://img3.doubanio.com/spic/s4130990.jpg)  
+  rating : (8.5分)  
+  number_of_comments : (25085人评价)  
+  quote : (桐华 / 江苏文艺出版社 / 2010-01 / 23.80元)
+
+
+第209名：
+  name : (看不见的城市 Le città invisibili)  
+  cover_url : (https://img3.doubanio.com/spic/s1804710.jpg)  
+  rating : (8.8分)  
+  number_of_comments : (24780人评价)  
+  quote : ([意大利]伊塔洛·卡尔维诺 / 张宓 / 译林出版社 / 2006-8 / 16.00元)
+
+
+第210名：
+  name : (撒哈拉的故事 )  
+  cover_url : (https://img3.doubanio.com/spic/s6780941.jpg)  
+  rating : (9.3分)  
+  number_of_comments : (23822人评价)  
+  quote : (三毛 / 北京十月文艺出版社 / 2011-1-7 / 24.00元)
+
+
+第211名：
+  name : (往事并不如烟 )  
+  cover_url : (https://img1.doubanio.com/spic/s1108667.jpg)  
+  rating : (8.6分)  
+  number_of_comments : (25025人评价)  
+  quote : (章诒和 / 人民文学出版社 / 2004-1 / 35.00元)
+
+
+第212名：
+  name : (梦里花落知多少 )  
+  cover_url : (https://img3.doubanio.com/spic/s2393243.jpg)  
+  rating : (8.8分)  
+  number_of_comments : (24204人评价)  
+  quote : (三毛 / 北京十月文艺出版社 / 2007-6 / 28.00元)
+
+
+第213名：
+  name : (史蒂夫·乔布斯传 Steve Jobs: A Biography)  
+  cover_url : (https://img3.doubanio.com/spic/s6974202.jpg)  
+  rating : (8.7分)  
+  number_of_comments : (24294人评价)  
+  quote : ([美] 沃尔特·艾萨克森 / 管延圻 / 中信出版社 / 2011-10-24 / 68.00元)
+
+
+第214名：
+  name : (倾城之恋 )  
+  cover_url : (https://img3.doubanio.com/spic/s4638950.jpg)  
+  rating : (8.7分)  
+  number_of_comments : (24212人评价)  
+  quote : (张爱玲 / 北京十月文艺出版社 / 2006-12 / 29.80元)
+
+
+第215名：
+  name : (飞鸟集 )  
+  cover_url : (https://img3.doubanio.com/spic/s1044902.jpg)  
+  rating : (8.8分)  
+  number_of_comments : (23949人评价)  
+  quote : ([印] 罗宾德拉纳德·泰戈尔 / 徐翰林 / 哈尔滨出版社 / 2004-6 / 16.80元)
+
+
+第216名：
+  name : (那些年，我们一起追的女孩 )  
+  cover_url : (https://img3.doubanio.com/spic/s1982025.jpg)  
+  rating : (8.2分)  
+  number_of_comments : (25003人评价)  
+  quote : (九把刀 / 花山文艺出版社 / 2007-1 / 20.00元)
+
+
+第217名：
+  name : (一只特立独行的猪 )  
+  cover_url : (https://img3.doubanio.com/spic/s1670642.jpg)  
+  rating : (8.8分)  
+  number_of_comments : (23835人评价)  
+  quote : (王小波 / 北方文艺出版社 / 2006-4 / 18.80元)
+
+
+第218名：
+  name : (七夜雪 )  
+  cover_url : (https://img1.doubanio.com/spic/s3007857.jpg)  
+  rating : (8.5分)  
+  number_of_comments : (24329人评价)  
+  quote : (沧月 / 北京十月文艺出版社 / 2006-10 / 25.00元)
+
+
+第219名：
+  name : (长恨歌 )  
+  cover_url : (https://img3.doubanio.com/spic/s3018752.jpg)  
+  rating : (8.3分)  
+  number_of_comments : (24928人评价)  
+  quote : (王安忆 / 南海出版公司 / 2003-8 / 22.00元)
+
+
+第220名：
+  name : (曾有一个人，爱我如生命 )  
+  cover_url : (https://img1.doubanio.com/spic/s3635269.jpg)  
+  rating : (7.6分)  
+  number_of_comments : (26104人评价)  
+  quote : (舒仪 / 中国画报出版社 / 2009-3 / 23.80)
+
+
+第221名：
+  name : (如何阅读一本书 How to Read a Book)  
+  cover_url : (https://img1.doubanio.com/spic/s1670978.jpg)  
+  rating : (8.5分)  
+  number_of_comments : (24263人评价)  
+  quote : ([美] 莫提默·J. 艾德勒 / 郝明义 / 商务印书馆 / 2004-1 / 38.00元)
+
+
+第222名：
+  name : (乖，摸摸头 )  
+  cover_url : (https://img3.doubanio.com/spic/s27466554.jpg)  
+  rating : (7.6分)  
+  number_of_comments : (25771人评价)  
+  quote : (大冰 / 湖南文艺出版社 / 2014-9-1 / 36.00元)
+
+
+第223名：
+  name : (佛祖在一号线 )  
+  cover_url : (https://img1.doubanio.com/spic/s4397779.jpg)  
+  rating : (8.2分)  
+  number_of_comments : (24683人评价)  
+  quote : (李海鹏 / 文化艺术出版社 / 2010-6 / 25.00元)
+
+
+第224名：
+  name : (谁动了我的奶酪？ Who Moved My Cheese?)  
+  cover_url : (https://img3.doubanio.com/spic/s1035374.jpg)  
+  rating : (7.2分)  
+  number_of_comments : (27099人评价)  
+  quote : ([美] 斯宾塞·约翰逊 / 吴立俊 / 中信出版社 / 2001-9 / 16.80元)
+
+
+第225名：
+  name : (杜拉拉2华年似水  : 《杜拉拉升职记》第二部 )  
+  cover_url : (https://img3.doubanio.com/spic/s3476613.jpg)  
+  rating : (7.3分)  
+  number_of_comments : (26800人评价)  
+  quote : (李可 / 陕西师范大学出版社 / 2009-1 / 28.00)
+
+
+第226名：
+  name : (最初的爱情 最后的仪式 First Love, Last Rites)  
+  cover_url : (https://img3.doubanio.com/spic/s3979661.jpg)  
+  rating : (8.0分)  
+  number_of_comments : (25063人评价)  
+  quote : ([英] 伊恩·麦克尤恩 / 潘帕 / 南京大学出版社 / 2010-2 / 22.00元)
+
+
+第227名：
+  name : (不朽 )  
+  cover_url : (https://img3.doubanio.com/spic/s2868780.jpg)  
+  rating : (7.6分)  
+  number_of_comments : (25818人评价)  
+  quote : (落落 / 长江文艺出版社 / 2007-12 / 22.00)
+
+
+第228名：
+  name : (阿狸·梦之城堡 )  
+  cover_url : (https://img3.doubanio.com/spic/s3721175.jpg)  
+  rating : (9.0分)  
+  number_of_comments : (22878人评价)  
+  quote : (hans / 上海锦绣文章出版社 / 2009-1 / 36.80元)
+
+
+第229名：
+  name : (孩子你慢慢来 )  
+  cover_url : (https://img3.doubanio.com/spic/s4124434.jpg)  
+  rating : (8.8分)  
+  number_of_comments : (23262人评价)  
+  quote : (龙应台 / 生活·读书·新知三联书店 / 2009-12-1 / 28.00元)
+
+
+第230名：
+  name : (天使与魔鬼 Angels & Demons)  
+  cover_url : (https://img3.doubanio.com/spic/s1914485.jpg)  
+  rating : (8.2分)  
+  number_of_comments : (24428人评价)  
+  quote : ([美] 丹.布朗 / 朱振武 / 人民文学出版社 / 2005-2 / 29.80元)
+
+
+第231名：
+  name : (球状闪电 )  
+  cover_url : (https://img3.doubanio.com/spic/s26040205.jpg)  
+  rating : (8.7分)  
+  number_of_comments : (23230人评价)  
+  quote : (刘慈欣 / 四川科学技术出版社 / 2005-6 / 22.00元)
+
+
+第232名：
+  name : (尘埃星球 )  
+  cover_url : (https://img3.doubanio.com/spic/s1944575.jpg)  
+  rating : (7.3分)  
+  number_of_comments : (26279人评价)  
+  quote : (落落 / 长江文艺出版社 / 2009-6 / 22.80元)
+
+
+第233名：
+  name : (伊豆的舞女 伊豆の踊子)  
+  cover_url : (https://img3.doubanio.com/spic/s1056010.jpg)  
+  rating : (8.1分)  
+  number_of_comments : (24268人评价)  
+  quote : ([日] 川端康成 / 叶渭渠 / 广西师范大学出版社 / 2002-2 / 23.80元)
+
+
+第234名：
+  name : (世界尽头与冷酷仙境 世界の終りとハードボイルド・ワンダーランド)  
+  cover_url : (https://img1.doubanio.com/spic/s1801057.jpg)  
+  rating : (8.5分)  
+  number_of_comments : (23426人评价)  
+  quote : ([日] 村上春树 / 林少华 / 上海译文出版社 / 2002-12 / 23.00元)
+
+
+第235名：
+  name : (无声告白 Everything I Never Told You)  
+  cover_url : (https://img3.doubanio.com/spic/s28109182.jpg)  
+  rating : (8.2分)  
+  number_of_comments : (24228人评价)  
+  quote : ([美] 伍绮诗 / 孙璐 / 江苏凤凰文艺出版社 / 2015-7 / 35.00元)
+
+
+第236名：
+  name : (菊与刀  : 日本文化的类型 )  
+  cover_url : (https://img3.doubanio.com/spic/s1074166.jpg)  
+  rating : (8.2分)  
+  number_of_comments : (23915人评价)  
+  quote : (（美）鲁思・本尼迪克特 / 吕万和 / 商务印书馆 / 1990-6 / 16.00)
+
+
+第237名：
+  name : (七龍珠 34  : 超越悟空的戰士 )  
+  cover_url : (https://img1.doubanio.com/spic/s1395309.jpg)  
+  rating : (9.2分)  
+  number_of_comments : (21956人评价)  
+  quote : (鸟山明 / 牟琳 / 東立 / 1993-6-25 / 6.90)
+
+
+第238名：
+  name : (皮囊 No More Than Skins)  
+  cover_url : (https://img3.doubanio.com/spic/s27943411.jpg)  
+  rating : (7.8分)  
+  number_of_comments : (24651人评价)  
+  quote : (蔡崇达 / 天津人民出版社 / 2014-12-1 / 39.80元)
+
+
+第239名：
+  name : (秘密 )  
+  cover_url : (https://img3.doubanio.com/spic/s3331205.jpg)  
+  rating : (7.3分)  
+  number_of_comments : (25661人评价)  
+  quote : ([澳] 朗达·拜恩 / 谢明宪 / 中国城市出版社 / 2008-11 / 32.00)
+
+
+第240名：
+  name : (倚天屠龙记(共四册) )  
+  cover_url : (https://img1.doubanio.com/spic/s1829709.jpg)  
+  rating : (8.5分)  
+  number_of_comments : (23030人评价)  
+  quote : (金庸 / 三联书店 / 1999-04 / 0)
+
+
+第241名：
+  name : (明朝那些事儿（柒）：大结局 )  
+  cover_url : (https://img3.doubanio.com/spic/s4536142.jpg)  
+  rating : (9.0分)  
+  number_of_comments : (22104人评价)  
+  quote : (当年明月 / 中国海关出版社 / 2009年 / 29.80元)
+
+
+第242名：
+  name : (拆掉思维里的墙  : 原来我还可以这样活 )  
+  cover_url : (https://img1.doubanio.com/spic/s6907698.jpg)  
+  rating : (8.0分)  
+  number_of_comments : (23907人评价)  
+  quote : (古典 / 中国书店 / 2010-9 / 29.80元)
+
+
+第243名：
+  name : (ZOO )  
+  cover_url : (https://img1.doubanio.com/spic/s2756239.jpg)  
+  rating : (8.6分)  
+  number_of_comments : (22634人评价)  
+  quote : ([日] 乙一 / 李颖秋 / 当代世界出版社 / 2007-10 / 20.00元)
+
+
+第244名：
+  name : (樱桃之远 )  
+  cover_url : (https://img3.doubanio.com/spic/s1110226.jpg)  
+  rating : (7.5分)  
+  number_of_comments : (24907人评价)  
+  quote : (张悦然 / 春风文艺出版社 / 2004-01 / 23.00元)
+
+
+第245名：
+  name : (明朝那些事儿（陆）  : 日暮西山 )  
+  cover_url : (https://img3.doubanio.com/spic/s4428711.jpg)  
+  rating : (8.9分)  
+  number_of_comments : (22071人评价)  
+  quote : (当年明月 / 中国海关出版社 / 2008-11 / 28.80)
+
+
+第246名：
+  name : (生活在别处 Život je jinde)  
+  cover_url : (https://img3.doubanio.com/spic/s1069535.jpg)  
+  rating : (8.3分)  
+  number_of_comments : (23032人评价)  
+  quote : ([捷克] 米兰·昆德拉 / 袁筱一 / 上海译文出版社 / 2004-5 / 25.00元)
+
+
+第247名：
+  name : (傲慢与偏见 Pride and Prejudice)  
+  cover_url : (https://img1.doubanio.com/spic/s27017338.jpg)  
+  rating : (9.0分)  
+  number_of_comments : (21637人评价)  
+  quote : ([英] 奥斯丁 / 王科一 / 上海译文出版社 / 1996-12 / 11.00元)
+
+
+第248名：
+  name : (世界因你不同  : 李开复自传 )  
+  cover_url : (https://img3.doubanio.com/spic/s3994156.jpg)  
+  rating : (8.1分)  
+  number_of_comments : (23160人评价)  
+  quote : (李开复 / 中信出版社 / 2009-9 / 29.80元)
+
+
+第249名：
+  name : (鬼吹灯之云南虫谷 )  
+  cover_url : (https://img1.doubanio.com/spic/s6063257.jpg)  
+  rating : (8.0分)  
+  number_of_comments : (23351人评价)  
+  quote : (天下霸唱 / 安徽文艺出版社 / 2006-11 / 26.80元)
+
+
+第250名：
+  name : (盗墓笔记6  : 阴山古楼 )  
+  cover_url : (https://img1.doubanio.com/spic/s6098009.jpg)  
+  rating : (8.5分)  
+  number_of_comments : (22453人评价)  
+  quote : (南派三叔 / 中国友谊出版公司 / 2010-1 / 32.80元)
+
+
