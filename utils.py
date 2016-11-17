@@ -2,9 +2,18 @@ import time
 
 
 def log(*args, **kwargs):
-    # time.time() 返回 unix time
-    # 如何把 unix time 转换为普通人类可以看懂的格式呢？
     format = '%Y/%m/%d %H:%M:%S'
     value = time.localtime(int(time.time()))
     dt = time.strftime(format, value)
-    print(dt, *args, **kwargs)
+    # 中文 windows 平台默认打开的文件编码是 gbk 所以需要指定一下
+    with open('log.hugo.txt', 'a', encoding='utf-8') as f:
+        # 通过 file 参数可以把输出写入到文件 f 中
+        # 需要注意的是 **kwargs 必须是最后一个参数
+        print(dt, *args, file=f, **kwargs)
+
+
+def now():
+    format = '%Y/%m/%d %H:%M:%S'
+    value = time.localtime(int(time.time()))
+    dt = time.strftime(format, value)
+    return dt

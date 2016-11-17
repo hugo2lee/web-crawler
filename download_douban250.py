@@ -152,14 +152,17 @@ def musics_from_div(div):
 
 def main():
     item = ['movie', 'book', 'music']
-    # save_to_file(item[0])
     all_item = []
     txt = ''
+
+    # 下面是先把网页下载到本地
+    # save_to_file(item[0])
+
+    # 下面为取出单条写入文件
     for i in range(10):
-        a = items_from_file(item[2], i)
+        a = items_from_file(item[0], i)
         for j in a:
             all_item.append(j)
-
     for i, m in enumerate(all_item):
         # print(m)
         txt += '第{}名：'.format(i + 1) + str(m) + '\r\n\r\n'
