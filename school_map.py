@@ -156,6 +156,13 @@ def school_from_page(url):
     return 'all school', len(all_school)
 
 
+def out():
+    for i in range(1, 1210):
+        n = School.query.filter_by(id=i).first()
+        log(n.area, n.grade, n.name, n.tel, n.address, n.website, n.synopsis)
+    # return n
+
+
 def make_url(url, school_area, school_grade):
     '''
     sample http://guangzhou.xuexiaodaquan.com/haizhuqu-gaozhong/
@@ -185,7 +192,8 @@ def main():
     # down_html(real_url)
     # log('open page', open_html_from_file(real_url))
     # log(page_from_file(real_url))
-    log('school from page', school_from_page(real_url))
+    # log('school from page', school_from_page(real_url))
+    log('select', out())
 
 
 def init_db():
